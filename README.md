@@ -1,2 +1,2 @@
 # datasci
-reposirity for the data scientist course
+repository for the data scientist course
